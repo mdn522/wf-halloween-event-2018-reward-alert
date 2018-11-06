@@ -1,4 +1,4 @@
-# Warface Halloween Event 2018 Reward Finder
+# Warface Halloween Event 2018 Reward Alert
 Get a alert about reward you get from Halloween Event 2018.  
 This is a Google Chrome Extension. also works on Opera
 
