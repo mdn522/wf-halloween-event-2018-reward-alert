@@ -1,7 +1,6 @@
 ﻿"use strict";
 
 var js = [
-    chrome.extension.getURL('xhook.min.js'),
     chrome.extension.getURL('inject.js')
 ];
 

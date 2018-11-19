@@ -19,7 +19,6 @@
         "50": "icon.png"
     },
     "web_accessible_resources": [
-        "xhook.min.js",
         "inject.js",
         "pupup.js"
     ],
